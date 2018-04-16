@@ -1,2 +1,2 @@
-# nycflightsanalysis
-Airline on-time data for all flights departing NYC in 2013- nycflights13 dataset
+# NYC Flight Data Analysis.
+Exploratory data analysis on all the flights that departed from NYC(JFK, LGA or EWR) in 2013. This analysis provides useful insights about planes, airlines, weather and airports.
